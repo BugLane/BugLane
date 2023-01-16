@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BugLane
-- I’m interested in penetration testing and red teaming
-- 🌱 I’m currently learning Javascript and web app pentesting
-- 💞️ I’m looking to collaborate on any cyber security related topics preferably pentesting
-- 📫 You can reach me by my discord: fuzzy#8903
+- 👋 Hi, I’m BugLane
+- I’m interested in penetration testing, red teaming, Linux, coding, web apps and  any computer related topics ( A whole lot of stuff:grin:)
+- I am currently learning and practicing my pentesting skills.
+- If you want to collaborate and learn from each other 
+- You can reach me by my discord: fuzzy#8903
 
 <!---
 BugLane/BugLane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
